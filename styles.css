@@ -147,6 +147,7 @@ a {
     width: 23%;
     margin: 55px;
     padding: 20px;
+    /* border: 1px solid lightgray; */
 }
 
 .zakat-fund img {
@@ -161,6 +162,12 @@ h3 {
 
 .zakat-sec {
     display: flex;
+
+}
+
+.border {
+    border: 1px solid lightsteelblue;
+    padding: 10px;
 }
 
 .zakat-fund a {
