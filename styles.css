@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.945), rgba(0, 0, 0, 0.192)), url(images/cow.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header-content {
+    color: #fff;
+    margin: 200px 150px;
+    padding: 10px;
+    position: absolute;
+    text-align: left;
+    width: 400px;
+    height: 500px;
+}
+
+
+.header-content h1 {
+    font-size: 50px;
+    margin-top: 80px;
+    color: rgb(216, 214, 214);
+}
+
+.header-content p {
+    color: rgb(168, 167, 167);
+}
+
+.button {
+    background-color: rgb(241, 51, 51);
+    padding: 17px;
+    margin-top: 30px;
+    color: #fff;
+    border: 2px solid rgb(241, 51, 51);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.headerh {
+    font-size: 45px;
+}
+
+p {
+    font-size: 17px;
+    padding: 20px 0;
+    color: rgb(119, 119, 119);
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(63, 63, 63);
+}
+
+.button {
+    padding: 15px;
+    background-color: rgb(224, 34, 34);
+    border: none;
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+
+}
+
+.blogs1 {
+    padding: 100px;
+    height: 500px;
+    width: 500px;
+    border-radius: 115px 250px;
+}
+
+.blogs1 h1 {
+    margin-top: 40px;
+}
+
+.art-4 {
+    text-align: center;
+    margin: 50px 150px;
+}
+
+
+.help-icon {
+    height: 50px;
+    width: 50px;
+    padding-right: 20px;
+}
+
+.he1 {
+    display: flex;
+    background-color: #FEF4F5;
+    margin: 40px;
+    padding: 20px;
+}
+
+.first-help {
+    display: flex;
+
+}
+
+.pgallery {
+    margin-left: 67px;
+    align-items: center;
+}
+
+.article-last {
+    display: flex;
+}
+
+.ar-lastc {
+    border-color: rgba(0, 255, 0, 0.5);
+    margin: 30px;
+    height: 200px;
+    width: 320px;
+    padding: 10px;
+}
+
+
+
+.ar-lastc a {
+    color: red;
+    text-decoration: dashed;
+}
+
+.alast-img {
+    height: 200px;
+    width: 320px;
+    border-radius: 30px 30px 0 0;
+}
+
+.zakat-fund {
+    /* background-color: pink; */
+    width: 23%;
+    margin: 55px;
+    padding: 20px;
+}
+
+.zakat-fund img {
+    height: 235px;
+    border-radius: 50px 50px 0 0;
+
+}
+
+h3 {
+    padding: 10px 0;
+}
+
+.zakat-sec {
+    display: flex;
+}
+
+.zakat-fund a {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold;
+
+}
+
+.footer {
+    width: 100%;
+    background-color: #0B0D17;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.footer-content {
+    padding: 50px;
+
+}
+
+.footer-content h1 {
+    color: rgb(243, 53, 116);
+}
